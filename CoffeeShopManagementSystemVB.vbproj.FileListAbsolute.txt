@@ -1,0 +1,58 @@
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\coffee.mdf
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\coffee_log.ldf
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.exe
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.pdb
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.xml
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Customer.resources
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Home.resources
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.exe
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.xml
+c:\users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.AddCoffee.resources
+C:\Users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Employee.resources
+C:\Users\dell\documents\visual studio 2015\Projects\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.PlaceOrder.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\coffee.mdf
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\coffee_log.ldf
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.exe.config
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.exe
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.pdb
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.xml
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.vbprojAssemblyReference.cache
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.AddCoffee.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Customer.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Employee.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Form1.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Home.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Resources.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.PlaceOrder.resources
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.vbproj.GenerateResource.cache
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.exe
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.xml
+C:\Users\Sudhvina A.S\Downloads\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.pdb
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\coffee.mdf
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\coffee_log.ldf
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.exe.config
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.exe
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.pdb
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.xml
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.vbprojAssemblyReference.cache
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.AddCoffee.resources
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Customer.resources
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Employee.resources
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Form1.resources
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Home.resources
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.Resources.resources
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.PlaceOrder.resources
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.vbproj.GenerateResource.cache
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.exe
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.xml
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.pdb
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.exe.manifest
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\bin\Debug\CoffeeShopManagementSystemVB.application
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.exe.manifest
+C:\Users\Sudhvina A.S\Documents\BluebayCoffee\CoffeeShopManagementSystemVB\CoffeeShopManagementSystemVB\obj\Debug\CoffeeShopManagementSystemVB.application
