@@ -14,7 +14,7 @@ Best DBMS project along with extra-ordinary simple and easy to handle Graphical 
 **Front End is developed by the C# , Adobe and Backend is developed by SQL Server Express**
 
 Project is officially licensed, you can read licensed terms and condition before proceding to next step
-> This project is one of the amazing adventure for me **(Yeshwanth.P)** and my partner **Sudhvina,** having such an tough break through and making much more enjoyable graphical user interface made our project to go to whole new level.
+> This project is one of the amazing creative project for me **(Sudhvina A S)** and my partner **Yeshwanth P,** having such an tough break through and making much more enjoyable graphical user interface made our project to go to whole new level.
 > Our Project credit also goes to **Mr. Chetan K.R (B.E,M.Tech,Ph.D) and Mr S. Sathyanarayana(B.E,M.Tech)**
 > We used Visual Studio 2019 for building this Application and Project. 
 > We collected this ideas from many number of other projects like coffee database management and Art gallery.
@@ -154,8 +154,7 @@ IMAGES OF STORED PROCEDURE
 
 _above download the docs file for more details it has ER DIAGRAM AND SCHEMA DIAGRAM
 _PPT is also be given in the project
-_If you still have doubts feel free to visit our website [www.bluebaycreaters.com](url) and send your doubt along with your email id. So i can talk to you personally and make your project more amazing.
-_Or you can open my GitHub profile and take my LinkedIn account and contact personally guys_
+_If you still have doubts  you can open my GitHub profile and take my LinkedIn account and contact personally
 
 **KUDOS ALL THE BEST **
 
